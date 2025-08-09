@@ -78,7 +78,7 @@ subprojects {
     apply plugin: 'java'
     apply plugin: 'com.gradleup.shadow'
 
-    version = project.findProperty('mcengine-artificialintelligence.version')
+    version = project.findProperty('mcengine-essential.version')
 
     tasks.named('jar').configure {
         enabled = false
