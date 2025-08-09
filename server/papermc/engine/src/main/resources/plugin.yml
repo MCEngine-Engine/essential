@@ -1,0 +1,6 @@
+name: MCEngineEssential
+version: ${version}
+main: io.github.mcengine.papermc.essential.engine.MCEngineEssentialPaperMC
+author: MCEngine
+description: MCEngine Essential
+api-version: 1.13
