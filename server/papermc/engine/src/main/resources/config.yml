@@ -3,6 +3,20 @@ licenses:
   license: free
   secret_key:
 
+project:
+  platform: github
+  token:
+  org:
+    name: MCEngine-Engine
+    url: https://github.com/MCEngine-Engine
+  repo:
+    name: essential
+    url: https://github.com/MCEngine-Engine/essential
+    issue:
+      url: https://github.com/MCEngine-Engine/essential/issues
+  website:
+    url: https://mcengine-website.github.io/essential
+
 # Database support
 # - sqlite
 # - mysql
